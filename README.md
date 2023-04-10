@@ -3,3 +3,5 @@
 ![image](https://user-images.githubusercontent.com/57321948/196933065-4b16c235-f3b9-4391-9cfe-4affcec87c35.png)
 
 Here I upload the Assignments of Business Analytics Masters. This course is conducted by iNeuron.ai
+
+![Certificate](https://github.com/MohammadWasiq0786/Business-Analytics-Masters-Assignments/blob/main/Certificate/iNeuron%20Business%20Analytics.png)
