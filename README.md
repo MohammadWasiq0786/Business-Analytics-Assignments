@@ -5,3 +5,5 @@
 Here I upload the Assignments of Business Analytics Masters. This course is conducted by iNeuron.ai
 
 ![Certificate](https://github.com/MohammadWasiq0786/Business-Analytics-Masters-Assignments/blob/main/Certificate/iNeuron%20Business%20Analytics.png)
+
+
