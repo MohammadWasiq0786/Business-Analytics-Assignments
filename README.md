@@ -15,7 +15,7 @@ Here I upload the Assignments of Business Analytics Masters. This course is cond
 | 2.         | **SQL**                          | **10 / 10**            |
 | 3.         | **Statistics**                   | **10 / 10**            |
 | 4.         | **Python**                       | **21 / 21**            |
-| 5.         | **Class Assignments**            | **25 / 25**            |
+| 5.         | **Class Assignments**            | **3 / 4**              |
 | 6.         | **Power BI**                     | **5 / 5**              |
 | 7.         | **Power BI Projects**            | **3 / 3**              |
 | 7.1        | **Spend**                        | **1 / 1**              |
@@ -29,7 +29,10 @@ Here I upload the Assignments of Business Analytics Masters. This course is cond
 | 9.4        | **House Price Prediction**       | **1 / 1**              |
 | 9.5        | **Sales Performance Analysis**   | **1 / 1**              |
 | 9.6        | **Stock Market Analysis**        | **1 / 1**              |
-
+| 10.        | **Tableau**                      | **0 / 5**              |
+| 11.        | **SQL**                          | **0 / 20**             |
+| 12.        | **Power BI**                     | **0 / 5**              |
+| 13.        | **Tableau**                      | **0 / 34**             |
 
 **Total Assignments : 74 / 150**
 
