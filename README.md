@@ -18,20 +18,20 @@ Here I upload the Assignments of Business Analytics Masters. This course is cond
 | 5.         | **Class Assignments**            | **25 / 25**            |
 | 6.         | **Power BI**                     | **5 / 5**              |
 | 7.         | **Power BI Projects**            | **3 / 3**              |
-| 6.         | **Spend**                        | **1 / 1**              |
-| 6.         | **Product**                      | **1 / 1**              |
-| 6.         | **Acquisition**                  | **1 / 1**              |
-| 7.         | **Tableau Projetcs**             | **11 / 11**            |
-| 8.         | **Tableau Final Projects**       | **6 / 6**              |
-| 8.         | **City Bike Project Management** | **1 / 1**              |
-| 8.         | **Election Analysis**            | **1 / 1**              |
-| 8.         | **E-commerce Data Analysis**     | **1 / 1**              |
-| 8.         | **House Price Prediction**       | **1 / 1**              |
-| 8.         | **Sales Performance Analysis**   | **1 / 1**              |
-| 8.         | **Stock Market Analysis**        | **1 / 1**              |
-| 8.         | **Tableau Final Projects**       | **1 / 1**              |
+| 7.1        | **Spend**                        | **1 / 1**              |
+| 7.2        | **Product**                      | **1 / 1**              |
+| 7.3        | **Acquisition**                  | **1 / 1**              |
+| 8.         | **Tableau Projetcs**             | **11 / 11**            |
+| 9.         | **Tableau Final Projects**       | **6 / 6**              |
+| 9.1        | **City Bike Project Management** | **1 / 1**              |
+| 9.2        | **Election Analysis**            | **1 / 1**              |
+| 9.3        | **E-commerce Data Analysis**     | **1 / 1**              |
+| 9.4        | **House Price Prediction**       | **1 / 1**              |
+| 9.5        | **Sales Performance Analysis**   | **1 / 1**              |
+| 9.6        | **Stock Market Analysis**        | **1 / 1**              |
 
-**Total Assignments :** $\bf{\frac{74}{150}}$
+
+**Total Assignments : 74 / 150**
 
 
 
